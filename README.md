@@ -1,10 +1,10 @@
 # ervin-designs
 www.ervin-designs.eu
 
-ABOUT ME:
--I'm a 18year old boy, i started freelancing 5 years ago!
-I'm making websites for very low cost's, but i'm uploading my free templates there,
-so you can download, and edit the templates for yourself!
+Hi, my name is Ervin. I create BEAUTIFUL & FUNCTIONAL websites for small businesses!
+With every line of code, I strive to make the web a beautiful place.
+I stand on a sweet spot where DESIGN & CODE intersects
+
 
 If you want to colaborate with me, feel free to contact me via email or via website!
 Email: info@ervin-designs.eu
